@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5593aba38414a5911ef5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "testGit",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testGit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testGit-Debug-17d5c478ab68a75bc2d8.json",
+					"name" : "testGit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testGit_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testGit_autogen-Debug-be524a577df3b18b42df.json",
+					"name" : "testGit_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testGit_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testGit_autogen_timestamp_deps-Debug-5de4b7b8890569540c08.json",
+					"name" : "testGit_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/QTProjects/testGit/.build-testGit-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "E:/QTProjects/testGit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

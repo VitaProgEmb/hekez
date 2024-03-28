@@ -18,6 +18,7 @@ public:
     ~MainWindow();
 
 private:
+    int test_var = 4;
     Ui::MainWindow *ui;
 };
 #endif // MAINWINDOW_H

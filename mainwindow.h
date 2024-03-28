@@ -19,7 +19,8 @@ public:
 
 private:
     int test_var = 4;
-
+    //afalf;agl;alg
+    //gaagagagagag
 
 
     Ui::MainWindow *ui;
